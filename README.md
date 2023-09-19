@@ -1,5 +1,5 @@
 # <img src="media/logo.JPG" alt="Your GIF" width="750">
-Arduino controlled automated miniature immersive theater project.
+Hotel Worme is an Arduino controlled automated miniature immersive theater project.
 
 [Watch the Full Video](https://vimeo.com/manage/videos/865836759) 
 
